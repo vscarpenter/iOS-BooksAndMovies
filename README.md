@@ -5,9 +5,9 @@ This is a sample iOS application built using Objective C & XCode that lays out t
 
 ## Questions, comments, or issues?
 
-Email Vinny at [vscarpenter@gmail.com][mailto:vscarpenter@gmail.com]
+Email Vinny at [mailto:vscarpenter@gmail.com]
 
 ## Author
 
 Vinny Carpenter
-[@vscarpenter][https://twitter.com/vscarpenter]
+[@vscarpenter]
