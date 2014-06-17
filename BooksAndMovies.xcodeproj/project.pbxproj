@@ -22,6 +22,7 @@
 		FB561E9C194B505D0049864D /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FB561E7B194B505D0049864D /* UIKit.framework */; };
 		FB561EA4194B505D0049864D /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = FB561EA2194B505D0049864D /* InfoPlist.strings */; };
 		FB561EA6194B505D0049864D /* BooksAndMoviesTests.m in Sources */ = {isa = PBXBuildFile; fileRef = FB561EA5194B505D0049864D /* BooksAndMoviesTests.m */; };
+		FB561EB1194B81FB0049864D /* VINDetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FB561EB0194B81FB0049864D /* VINDetailViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -55,6 +56,8 @@
 		FB561EA1194B505D0049864D /* BooksAndMoviesTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "BooksAndMoviesTests-Info.plist"; sourceTree = "<group>"; };
 		FB561EA3194B505D0049864D /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		FB561EA5194B505D0049864D /* BooksAndMoviesTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BooksAndMoviesTests.m; sourceTree = "<group>"; };
+		FB561EAF194B81FB0049864D /* VINDetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VINDetailViewController.h; sourceTree = "<group>"; };
+		FB561EB0194B81FB0049864D /* VINDetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VINDetailViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -117,6 +120,8 @@
 				FB561E86194B505D0049864D /* VINAppDelegate.h */,
 				FB561E87194B505D0049864D /* VINAppDelegate.m */,
 				FB561E89194B505D0049864D /* Main_iPhone.storyboard */,
+				FB561EAF194B81FB0049864D /* VINDetailViewController.h */,
+				FB561EB0194B81FB0049864D /* VINDetailViewController.m */,
 				FB561E8C194B505D0049864D /* Main_iPad.storyboard */,
 				FB561E8F194B505D0049864D /* VINViewController.h */,
 				FB561E90194B505D0049864D /* VINViewController.m */,
@@ -257,6 +262,7 @@
 				FB561E88194B505D0049864D /* VINAppDelegate.m in Sources */,
 				FB561E91194B505D0049864D /* VINViewController.m in Sources */,
 				FB561E84194B505D0049864D /* main.m in Sources */,
+				FB561EB1194B81FB0049864D /* VINDetailViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

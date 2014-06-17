@@ -10,4 +10,6 @@
 
 @interface VINDetailViewController : UIViewController
 
+@property  NSDictionary *entry;
+
 @end
